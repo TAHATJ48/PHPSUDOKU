@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run a one-line script
-        run: Welcome To My wonderful Sudoku Solver
+        run: echo Welcome To My wonderful Sudoku Solver
         
       - name: Run a multi-line script
         run: |
