@@ -26,4 +26,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Board1,
-          php grille1.php.
+          php ../grille1.php.
